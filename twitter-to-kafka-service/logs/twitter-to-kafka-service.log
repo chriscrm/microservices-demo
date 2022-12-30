@@ -1,0 +1,6 @@
+2022-12-29 21:50:42 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on Criss-MacBook-Pro.local with PID 2635 (/Users/crisr/Documents/workspace-eda/microservices-demo/twitter-to-kafka-service/target/classes started by crisr in /Users/crisr/Documents/workspace-eda/microservices-demo)
+2022-12-29 21:50:42 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-12-29 21:50:43 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 2.131 seconds (JVM running for 4.549)
+2022-12-29 21:50:43 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2022-12-29 21:50:43 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2022-12-29 21:50:43 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
